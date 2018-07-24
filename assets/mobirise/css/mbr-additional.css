@@ -1815,3 +1815,29 @@ body {
 .cid-qYHZpkQjtc a.close:hover {
   color: #ffffff;
 }
+.cid-qYI3pZHoQt {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-qYI3pZHoQt .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qYI3pZHoQt .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qYI3pZHoQt .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qYI3pZHoQt .mbr-text {
+  color: #ffffff;
+}
+.cid-qYI3pZHoQt .card {
+  padding-bottom: 1.5rem;
+}
